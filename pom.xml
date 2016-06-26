@@ -35,7 +35,7 @@
     </properties>
 
     <scm>
-      <developerConnection>scm:git:https://github.com/proiectulpaginiweb/spring-api</developerConnection>
+      <developerConnection>scm:git:git@github.com:proiectulpaginiweb/studentbook-api.git</developerConnection>
     </scm>
 
     <build>
