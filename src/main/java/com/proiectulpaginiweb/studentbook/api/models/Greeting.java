@@ -1,4 +1,4 @@
-package app.models;
+package com.proiectulpaginiweb.studentbook.api.models;
 
 public class Greeting {
 

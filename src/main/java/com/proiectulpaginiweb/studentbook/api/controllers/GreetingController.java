@@ -1,6 +1,6 @@
-package app.controllers;
+package com.proiectulpaginiweb.studentbook.api.controllers;
 
-import app.models.Greeting;
+import com.proiectulpaginiweb.studentbook.api.models.Greeting;
 import java.util.concurrent.atomic.AtomicLong;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;

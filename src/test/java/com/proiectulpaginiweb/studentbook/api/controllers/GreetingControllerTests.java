@@ -1,6 +1,6 @@
-package app.tests;
+package com.proiectulpaginiweb.studentbook.api.controllers;
 
-import app.App;
+import com.proiectulpaginiweb.studentbook.api.Application;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
 import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.print;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.jsonPath;
@@ -19,7 +19,7 @@ import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 import org.springframework.web.context.WebApplicationContext;
 
 @RunWith(SpringJUnit4ClassRunner.class)
-@SpringApplicationConfiguration(classes = App.class)
+@SpringApplicationConfiguration(classes = Application.class)
 @WebAppConfiguration
 public class GreetingControllerTests {
 
