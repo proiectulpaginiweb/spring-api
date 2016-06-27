@@ -1,5 +1,7 @@
-spring-api
+studentbook-api
 ==========
+
+[![Build Status](https://travis-ci.org/proiectulpaginiweb/studentbook-api.svg?branch=master)](https://travis-ci.org/proiectulpaginiweb/studentbook-api)
 
 # Start
 
