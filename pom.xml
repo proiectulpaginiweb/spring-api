@@ -38,6 +38,14 @@
       <tag>HEAD</tag>
     </scm>
 
+    <distributionManagement>
+      <repository>
+        <id>local.repo</id>
+        <name>studentbook-api</name>
+        <url>file:///Users/sarbull/projects/proiectulpaginiweb/releases</url>
+      </repository>
+    </distributionManagement>
+
     <build>
         <plugins>
             <plugin>
